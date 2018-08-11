@@ -1,0 +1,16 @@
+{
+  "name": "pupper-bot",
+  "version": "0.0.1",
+  "description": "Discord bot that sends awesome dog pictures every thirty minutes to the specified channel.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LoganNehrbass",
+  "license": "GPL-3.0"
+}
